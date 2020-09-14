@@ -1,0 +1,262 @@
+/*
+	Author: MGBalon 02.29.12
+*/
+
+/* CSS RESET
+-------------------------------------------------------------------------------*/
+
+html, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, header, hgroup, menu, nav, section, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}									
+
+article, aside, figure, footer, header, hgroup, nav, section {display: block;}
+
+html {overflow-y: scroll;}
+
+ul {list-style: none;}
+
+blockquote, q {quotes: none;}
+
+blockquote:before, 
+blockquote:after, 
+q:before, 
+q:after {content: ''; content: none;}
+
+a {margin: 0; padding: 0; font-size: 100%; vertical-align: baseline; background: transparent;}
+
+del {text-decoration: line-through;}
+
+abbr[title], dfn[title] {border-bottom: 1px dotted #000; cursor: help;}
+
+/* tables still need cellspacing="0" in the markup */
+table {border-collapse: collapse; border-spacing: 0;}
+th {font-weight: bold; vertical-align: bottom;}
+td {font-weight: normal; vertical-align: top;}
+
+hr {display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0;}
+
+input, select {vertical-align: middle;}
+
+pre {
+	white-space: pre; /* CSS2 */
+	white-space: pre-wrap; /* CSS 2.1 */
+	white-space: pre-line; /* CSS 3  */
+	word-wrap: break-word; /* IE */
+}
+
+/*input[type="radio"] {vertical-align: text-bottom;}
+input[type="checkbox"] {vertical-align: bottom; *vertical-align: baseline;}
+.ie6 input {vertical-align: text-bottom;}
+*/
+select, input, textarea {font: 99% sans-serif;}
+
+table {font-size: inherit; font: 100%;}
+ 
+/* Accessible focus treatment
+	people.opera.com/patrickl/experiments/keyboard/test */
+a:hover, a:active {outline: none;}
+
+small {font-size: 85%;}
+
+strong, th {font-weight: bold;}
+
+td, td img {vertical-align: top;} 
+
+/* Make sure sup and sub don't screw with your line-heights
+	gist.github.com/413930 */
+sub, sup {font-size: 75%; line-height: 0; position: relative;}
+sup {top: -0.5em;}
+sub {bottom: -0.25em;}
+
+/* standardize any monospaced elements */
+pre, code, kbd, samp {font-family: monospace, sans-serif;}
+
+/* hand cursor on clickable elements */
+.clickable,
+label, 
+input[type=button], 
+input[type=submit], 
+button {cursor: pointer;}
+
+/* Webkit browsers add a 2px margin outside the chrome of form elements */
+button, input, select, textarea {margin: 0;}
+
+/* make buttons play nice in IE */
+button {width: auto; overflow: visible;}
+ 
+/* scale images in IE7 more attractively */
+.ie7 img {-ms-interpolation-mode: bicubic;}
+
+/* prevent BG image flicker upon hover */
+.ie6 html {filter: expression(document.execCommand("BackgroundImageCache", false, true));}
+
+/* let's clear some floats */
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }  
+.clearfix:after { clear: both; }  
+.clearfix { zoom: 1; }  
+
+
+/* GLOBAL
+-------------------------------------------------------------------------------*/
+body {font: 14px 'DroidSansRegular',Arial,sans-serif; background:#fff;}
+body, select, input, textarea {color: #333;}
+
+@font-face{font-family:'DroidSansRegular';src:url('../fonts/droidsans-webfont.eot');src:url('../fonts/droidsans-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/droidsans-webfont.woff') format('woff'),url('../fonts/droidsans-webfont.ttf') format('truetype'),url('../fonts/droidsans-webfont.svg#DroidSansRegular') format('svg');font-weight:normal;font-style:normal;}
+
+
+a { /*color: #03f;*/ }
+a:hover { color: #69f; }
+::-moz-selection{ background: #7f0000; color: #fff; text-shadow: none;}
+::selection { background: #7f0000; color: #fff; text-shadow: none;} 
+rial,sans-serif;
+
+.wrapper { margin:0; padding:0;}
+	aside { width:253px; min-height:1000px; padding:20px; background:url(../images/bg-sidebar.jpg) no-repeat fixed; position:fixed; color:#fff; border-right:5px #444 solid;  }
+	article { float:left; width:605px; margin:0px 0px 0px 300px; padding:20px 0px 0px 60px; }
+
+.spacer { clear:both;display:block;font-size:1px;height:10px;visibility:hidden;width:100%; }
+.hidden { display:none;}
+.right { float:right;}
+.left { float:left; }
+.required { color:red;}
+
+.attention p, .error p, .info p, .success p { color:#333;}
+
+/* ASIDE
+-------------------------------------------------------------------------------*/
+nav ul { margin:20px 0px 0px 0px; }
+nav ul li {	list-style-type:none; margin:10px 0px; float:left; width:100%; }
+nav ul li a { text-decoration:none; color:#fff; display:block; }
+nav ul li a:hover { color:#ad6a05; }
+nav ul li span { -moz-border-radius:30px; -webkit-border-radius:30px; border-radius:30px; background:#333; padding:5px 10px; margin:0px 10px 0px 20px; }
+nav ul li.active span, .wizard-active span { background:#ad6a05; color:#fff; }
+nav ul li.active a, .wizard-active a { color:#eca144; }
+nav ul li.previous span, .wizard-prev span { background:#6c6c6c; color:#fff; }
+nav ul li.previous a, .wizard-prev a { color:#a5a5a5; }
+
+
+/* ARTICLE / FORMS
+-------------------------------------------------------------------------------*/
+header { float:left; width:100%; height:auto; margin:10px 0px 0px 0px; padding:0px 0px 0px 0px;}
+header h1 { font-size:24px; color:#b6121c;  }
+header p { font-size:12px; line-height:20px; }
+h2 { border-bottom:1px #e0e0e0 solid; text-transform:uppercase; color:#a5a5a5; margin:0px 0px 10px 0px; }
+
+#app-form { float:left; margin:0px 0px 30px 0px; }
+#app-form div { float:left; width:100%; height:auto; padding:7px 0px; }
+#app-form div label { font-size:12px; float:left; width:30%; text-align:right; font-weight:bold; padding:7px 10px 0px 0px; }
+#app-form input, .input-textarea { background: url("../images/field-bg.png" ) repeat-x scroll center top #FFFFFF; border-color: #7C7C7C #C3C3C3 #DDDDDD; -moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px; border-style: solid; border-width: 1px; font-size: small; padding: 4px; width: 90%; }
+#app-form .input-text:focus, 
+#app-form .input-textarea:focus, 
+#app-form .select-input-wrap select:focus { background:#96a2ab; color:#fff; }
+
+#app-form .input-wrap, #app-form .radio-input-wrap, #app-form .date-input-wrap, #app-form .select-input-wrap,
+#app-form .textarea-input-wrap { padding:3px 0px; float:left; width:60%; }
+
+#app-form .radio-input-wrap input { float:left; margin:8px 5px 0px 20px; width:2%; } 
+#app-form .radio-input-wrap label { float:left; width:auto; }
+
+#app-form .select-input-wrap select { border-color: #7C7C7C #C3C3C3 #DDDDDD; -moz-border-radius:5px; 
+	-webkit-border-radius:5px; border-radius:5px; border-style: solid; border-width: 1px; padding: 3px; width: 93%; }
+#app-form .select-input-wrap select option { background:#5d6870; } 
+
+#app-form .date-input-wrap input { width:30%;  }
+#app-form .date-input-wrap input:focus { background:#96a2ab; color:#fff; }
+#app-form .date-input-wrap small { font-size:11px; }
+
+/* datepicker override */
+
+.ui-widget { font-size:12px !important; }
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default { background:#ededed !important; border:none !important; }
+
+#app-form div ul { margin:0px 0px 0px 133px; }
+#app-form div ul li { float:left; width:30%; }
+#app-form div ul li label { float:left; width:35%;}
+#app-form div ul li input { float:left; width:50%;}
+
+#app-form fieldset, #record-form fieldset { background:#f9f9f9; -moz-border-radius:5px; 
+	-webkit-border-radius:5px; border-radius:5px; padding:0px 0px 20px 0px; border:1px dotted #C5C5C5;}
+
+#app-form div.fromto { text-transform:uppercase; font-size:12px; width:auto; margin:-5px 0px 0px 230px; padding:0px 0px 0px 0px; }
+#app-form div.fromto small { width:auto; float:left; margin-right:50px;}
+
+.btn a { display:block; background:url(../images/button-bg.png) repeat-x #c2c2c2; padding:7px 12px; 
+	margin:0px 5px 0px 0px; min-width:50px; border-color: #ffffff #c6c6c6 #7c7c7c #c6c6c6; 
+	border-style: solid; border-width: 1px; -moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px; color:#333; text-decoration:none; font-size:11px;  text-align:center; }
+.btn a:hover { background:#c2c2c2; }
+.btn a:active { background:#666; color:#fff; }
+.btn a img { float:left; margin:0px 3px 0px 0px; }
+
+.btn .btn-submit { width:15%; margin-left:300px; float:left; }
+
+/* NAVIGATOR
+-------------------------------------------------------------------------------*/
+a.prev, a.next { float:left; width:45%; display:block; height:auto; padding:7px 12px;  background:url(../images/button-bg.png) repeat-x #c2c2c2; border-color: #ffffff #c6c6c6 #7c7c7c #c6c6c6; border-style: solid; border-width: 1px; -moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px; font-size:12px; color:#333;  }
+
+a.prev img { float:left;}
+a.prev span { float:left; color:#333; margin:3px 0px 0px 10px;}
+a.prev:hover { background:#c2c2c2; }
+a.prev:active { background:#666; }
+
+a.next img { float:right;}
+a.next span { float:right; righ:#333; margin:3px 10px 0px 0px;}
+a.next:hover { background:#c2c2c2; }
+a.next:active { background:#666; }
+
+.wizard-rightcol{
+	border:none;
+	padding:0;
+}
+
+.wizard-form {
+	margin: 0;
+	padding: 0;
+	width:100%
+}
+
+.col-1-form .form-item .text-input-wrap{
+    float: left !important;
+    padding: 3px 0 !important;
+    width: 63% !important;
+}
+
+.col-1-form .form-item label.label-desc{
+    float: left;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 7px 10px 0 0;
+    text-align: right;
+    width: 30%;
+}
+.col-1-form .form-item{
+    float: left;
+    height: auto;
+    width: 100%;
+}
+.wizard-type-form .form-item .text-input-wrap input {
+    width: 98%;
+}
+.wizard-type-form .form-item .select-input-wrap select{
+	 width: 65%;
+}
+.wizard-type-form .form-item .text-input-wrap input.datepicker, .wizard-type-form .form-item .text-input-wrap input.hasDatepicker{
+	width: 35%;	
+}
+.wizard-type-form .form-item .textarea-input-wrap textarea{
+	 width: 65%;
+}
+.wizard-type-form .form-item .radio-input-wrap {
+	 width: 63%;
+	 float:left;
+	 padding-top:3px;
+}
+
+aside img{width:98%}
+
+.wizard-rightcol { background:#fff;}

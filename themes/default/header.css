@@ -1,0 +1,41 @@
+
+/*	Page Header Styles
+/******************************************************/
+
+#page-header h3 {  float:left; width:93px; height:49px; background:url(images/logo-hris-wrap.png) no-repeat; }
+	#page-header h3 a { display:block;  float:right; padding:7px; margin:5px 0px 0px 0px; }	
+	#page-header h3 span { display:none; }
+	
+#branding img { float:left; padding:30px 0px 0px 30px; }
+
+.account-box { float:right; padding:8px 0px 0px 0px; height:50px; vertical-align:middle; }
+	.account-box p { color:#d0e1ef; font-size:14px; float:left; padding:2px 0px 0px 0px; }
+	
+.dashboard-link { margin:-4px 0px 0px 0px !important; }
+
+.account-link { float:right; width:auto; height:auto; margin:-7px 20px 0px 10px; }
+.account-link h4 {font-size:14px; color:#d0e1ef; text-decoration:none; padding:10px 10px 20px 10px; cursor:pointer; -moz-border-radius:5px 5px 5px 5px; font-weight:normal; }
+.avatar-small { width:24px; float:left; padding:3px 10px 3px 0px; margin:-5px 0px 0px 0px; }
+.account-drop { display:none; }
+	.account-drop { background:#142430; padding:7px 12px; margin:0px 20px 0px 0px; padding:10px 10px 20px 10px; position:absolute; top:40px; right:0; display:none; z-index:5000; -moz-border-radius: 5px 5px 5px 5px; -webkit-border-radius: 5px 5px 5px 5px; width:200px; -moz-box-shadow: 0 2px 7px #34444f; font-size:12px;  color:#59b;   }
+	.account-drop img { float:left; width:60px;}
+	.account-drop ul { margin:0;  }
+	.account-drop ul.align-right { padding:0px 10px 0px 0px; text-align:right; }
+	.account-drop ul.align-left { padding:5px 0px 0px 0px; }
+	.account-drop ul li { padding:0px 0px 0px 0px; width:100%; }
+	.account-drop a:link, .account-drop a:visited  { color:#59b; text-decoration:none; line-height:1.7em; }
+	.account-drop a:active, .account-drop a:hover { color:#fff; }
+	.account-drop hr { float:left; width:100%; height:auto; border:1px #344451 solid; }
+	
+	.account-position { font-size:14px; color:#FFF;  }
+	.account-department, .account-company { font-size:10px; text-transform:uppercase; }
+
+
+.branding h1 a { float:left; color:#fff; font-size:26px; text-shadow:0 2px 0 #354650; text-decoration:none; font-family:Helvetica, sans-serif; letter-spacing:-1px;  }
+.branding h1 a:hover { color:#c7dae9;}
+
+
+.searchbar { float:right; width:auto; height:auto; border:1px #b9cbd6 solid; -moz-border-radius: 5px 5px 5px 5px; -webkit-border-radius: 5px 5px 5px 5px; }
+.searchbar label, .searchbar input { float:left; }
+.searchbar label { background:url(images/search-label-bg.png) repeat-x #8494a1; width:70px; padding:5px 0px; font-style:italic; font-family:Georgia, "Times New Roman", Times, serif; border:1px #7a8a97 solid; -moz-border-radius: 5px 0px 0px 5px; -webkit-border-radius: 5px 0px 0px 5px; cursor:pointer; text-align:center;  }
+.searchbar input { width:170px; background:url(icons/magnifier-search.png) no-repeat 7px 5px #bdcfdc; border:1px #7a8a97 solid; padding:5px 0px 6px 30px; margin:0px 0px 0px 0px; -moz-border-radius: 0px 5px 5px 0px; -webkit-border-radius: 0px 5px 5px 0px; }

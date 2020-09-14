@@ -1,0 +1,17 @@
+
+# HRIS
+
+# [1] sending of email from email queue
+*/1 * * * * php -f /var/www/html/pioneer/emailer.php
+
+# [2] uploading of branch dtr logs
+0 9 * * * php -f /var/www/html/pioneer/cron.php -- -u user -p password -m upload_lotus_notes
+0 21 * * * php -f /var/www/html/pioneer/cron.php -- -u user -p password -m upload_lotus_notes
+
+# [3] checking of employee movement and stuff
+*/5 * * * * php -f /var/www/html/pioneer/cron.php -- -u user -p password -m employee_movement
+
+# [4] annual leave credits generation
+0 6 1 12 * php -f /var/www/html/pioneer/cron.php -- -u user -p password -m yearly_leave_accumulation
+
+# end of HRIS

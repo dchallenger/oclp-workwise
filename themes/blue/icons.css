@@ -1,0 +1,128 @@
+/*	
+	Icon Styles
+	@author MGBalon
+	@usage <a class="icon icon-16-name_of_the_icon" href="#"></a>
+*/
+
+
+/******************************************************/
+/*  Quick link icons
+/******************************************************/
+
+.sb-manual { background:url(icons/icon-quick-manual.png) no-repeat center; }
+.sb-directory { background:url(icons/icon-quick-directory.png) no-repeat center;}
+.sb-orgchart { background:url(icons/icon-quick-orgchart.png) no-repeat center; }
+
+
+/******************************************************/
+/*  Icon icons
+/******************************************************/
+
+.icon-sb { background:url(icons/icon-default-32.png) no-repeat center; }
+
+.icon { border: 1px solid #f5f5f5; background-color: #fff; display: inline-block; height: 20px; width: 20px; text-indent: -99999px ; background-position: 50% 50%; 
+		-moz-border-radius: 3px; -webkit-border-radius: 3px; }
+.icon:hover { background-color: #eee; border: 1px solid #AAA; height: 20px; width: 20px; }
+
+.icon-button { background-position: 50% 50%; background-color: #eee; border:  1px solid #ccc; display: inline-block; 
+        height: 20px; width: 20px; text-indent: -99999px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+.icon-button:hover { border: 1px solid #AAA; }
+.icon-button:active { background-color: #999; border:  1px solid #ccc; }
+.icon-button.active { background-color:#999999 !important; border:1px solid #777777 !important; }
+
+/******************************************************/
+/*  Grouped Icons
+/******************************************************/
+
+.icon-group { display: inline-block; }
+.icon-group .icon-button:last-child { border-left: 1px solid #f5f5f5; -moz-border-radius-topright: 3px; -moz-border-radius-bottomright: 3px; 
+		-webkit-border-bottom-right-radius: 3px; -webkit-border-top-right-radius: 3px; white-space: nowrap;}
+.icon-group .icon-button { float: left; -moz-border-radius: 0; -webkit-border-radius: 0; border-left: 1px solid #f5f5f5}
+.icon-group .icon-button:hover { border: 1px solid #AAA !important; }	
+.icon-group .icon-button:first-child { border-left: 1px solid #ccc; -moz-border-radius-topleft:3px; -moz-border-radius-bottomleft: 3px; 
+		-webkit-border-top-left-radius: 3px;	-webkit-border-bottom-left-radius: 3px;	}
+
+
+.icon-label-group {  display: inline-block; white-space: nowrap; padding:0px 0px 0px 0px; margin:0px 0px 0px 5px; -moz-box-shadow: 0px 1px #a5a5a5; -webkit-box-shadow: 0px 1px #a5a5a5; box-shadow: 0px 1px #a5a5a5; -moz-border-radius: 0px 0px 3px 3px; -webkit-border-radius: 0px 0px 3px 3px; border-radius: 0px 0px 3px 3px; }
+
+.icon-label { background: #dfdfdf url(icons/button-bg.png) repeat-x 0 bottom; padding:3px 6px; border-color: #ccc #ccc #ccc #ccc; border-width: 1px; border-style: solid; line-height: 22px; display:inline-block; }
+
+.icon-label-group .icon-label { display: inline; float: left; }
+
+div.icon-label a { background-position: 2px 50%; display: block; font-size: 11px; text-decoration:none; }
+
+div.icon-label:hover { border-color: #999 !important; }
+
+div.icon-label:active, div.icon-label.active { background: #999 !important; border: 1px solid #999 !important; }
+
+div.icon-label:active a, div.icon-label.active a { color: #fff; text-shadow: 1px 1px 0 #777; }
+
+.icon-label.mid { border-left: 1px solid #f0f0f0 !important; }
+
+a.icon-label:hover { border: 1px solid #005c97; }
+
+.icon-label:first-child { border-left: 1px solid #ccc !important; border-radius:3px 3px 3px 3px; -moz-border-radius:3px 3px 3px 3px; -webkit-border-radius:3px 3px 3px 3px; }
+
+.icon-label:last-child { /*border-left: 1px solid #f0f0f0;*/ border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+
+/* .form-submit-btn .icon-label a span */
+.icon-label a span { font-size: 12px; padding: 0 5px 0 22px; }
+
+
+
+/******************************************************/
+/*  16px icons
+/******************************************************/
+
+.icon-default-16						{background-image:url(icons/icon-default-16.png); background-repeat: no-repeat; }
+.icon-16-refresh 						{background-image: url(icons/arrow-circle-315.png); background-repeat: no-repeat; }
+.icon-16-active         		{background-image: url(icons/active.png); background-repeat: no-repeat;}
+.icon-16-disk								{background-image: url(icons/disk.png); background-repeat: no-repeat;}
+.icon-16-disk-back					{background-image: url(icons/disk-back.png); background-repeat: no-repeat;}
+.icon-16-listback						{background-image: url(icons/back-document-list.png); background-repeat: no-repeat;}
+.icon-16-fmlink 						{background-image: url(icons/fmlink.png); background-repeat: no-repeat;}
+.icon-16-edit           		{background-image: url(icons/pencil.png); background-repeat: no-repeat;}
+.icon-16-delete							{background-image: url(icons/cross.png); background-repeat: no-repeat;}
+.icon-16-picklist 					{background-image: url(icons/ui-combo-box.png); background-repeat: no-repeat;}
+.icon-16-add            		{background-image: url(icons/plus-circle.png); background-repeat: no-repeat;}
+.icon-16-xgreen-orb					{background-image: url(icons/xactive.png); background-repeat: no-repeat;}
+.icon-16-minus							{background-image: url(icons/minus-circle.png); background-repeat: no-repeat;}
+.icon-16-info								{background-image: url(icons/information.png); background-repeat: no-repeat;}
+.icon-16-map-pin						{background-image: url(icons/map-pin.png); background-repeat: no-repeat;}
+.icon-16-balloon-ellipsis		{background-image: url(icons/balloon-ellipsis.png); background-repeat: no-repeat;}
+.icon-16-search-opts      	{background-image: url(icons/ui-check-boxes-series.png); background-repeat: no-repeat;}
+.icon-16-chart-up         	{background-image: url(icons/chart-up.png); background-repeat: no-repeat;}
+.icon-16-chart            	{background-image: url(icons/chart.png); background-repeat: no-repeat;}
+.icon-16-joborder-status		{background-image: url(icons/joborder-status.png); background-repeat: no-repeat;}
+.icon-16-calendar-month   	{background-image: url(icons/calendar-month.png); background-repeat: no-repeat;}
+.icon-16-user-business 			{background-image: url(icons/user-business.png); background-repeat: no-repeat;}
+.icon-16-alert-status     	{background-image: url(icons/alert-status.png); background-repeat: no-repeat;}
+.icon-16-ribbon			    		{background-image: url(icons/medal-red.png); background-repeat: no-repeat;}
+.icon-16-doc-text						{background-image: url(icons/document-text.png); background-repeat: no-repeat;}
+.icon-16-document-view    	{background-image: url(icons/document-view.png); background-repeat: no-repeat;}
+.icon-16-transform					{background-image: url(icons/application-split-tile.png); background-repeat: no-repeat;}
+.icon-16-split			    		{background-image: url(icons/application-tile.png); background-repeat: no-repeat;}
+.icon-16-xrefresh           {background-image: url(icons/xrefresh.png); background-repeat: no-repeat;}
+.icon-16-portlet-fold       {background-image: url(icons/portlet-fold.png); background-repeat: no-repeat;}
+.icon-16-portlet-unfold     {background-image: url(icons/portlet-unfold.png); background-repeat: no-repeat;}
+.icon-16-application-small	{background-image: url(icons/application-small.png); background-repeat: no-repeat;}
+.icon-16-key			     			{background-image: url(icons/key.png); background-repeat: no-repeat;}
+.icon-16-export			     		{background-image: url(icons/export-database.png); background-repeat: no-repeat;}
+.icon-16-search							{background-image: url(icons/magnifier-search.png); background-repeat: no-repeat;}
+.icon-16-print 							{background-image: url(icons/printer.png); background-repeat: no-repeat;}
+.icon-16-cancel 						{background-image: url(icons/slash.png); background-repeat: no-repeat;}
+.icon-16-publish						{background-image: url(icons/clipboard-sign.png); background-repeat: no-repeat;}
+.icon-16-position						{background-image: url(icons/briefcase.png); background-repeat: no-repeat;}
+.icon-16-approve						{background-image: url(icons/tick.png); background-repeat: no-repeat;}
+.icon-16-settings						{background-image: url(icons/gear.png); background-repeat: no-repeat;}
+.icon-16-settings2					{background-image: url(icons/gear-pencil.png); background-repeat: no-repeat;}
+.icon-16-tree-collapse			{background-image: url(icons/tree-collapse.png); background-repeat: no-repeat;}
+.icon-16-tree-expand				{background-image: url(icons/tree-expand.png); background-repeat: no-repeat;}
+
+/******************************************************/
+/*  Larger icons
+/******************************************************/
+
+.icon-default-24			{background-image:url(icons/icon-default-24.png); background-repeat: no-repeat; }
+.icon-default-32			{background-image:url(icons/icon-default-32.png); background-repeat: no-repeat; }
+

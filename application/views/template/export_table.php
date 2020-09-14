@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<style>
+			<?=file_get_contents(css_path('styles.css'))?>
+		</style>
+	</head>
+	<body>
+		<?=$table?>
+	</body>
+</html>

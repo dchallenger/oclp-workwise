@@ -1,0 +1,3 @@
+Employee No	Date	OT Code	OT Hours	Leave Type	Leave Hours
+1711290	04/06/2020			TDY	8.00
+1711290	04/09/2020			TDY	8.00

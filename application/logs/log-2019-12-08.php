@@ -1,0 +1,286 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2019-12-08 18:38:42 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\helpers\audit_log_trail_helper.php 71
+ERROR - 2019-12-08 18:38:42 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\helpers\audit_log_trail_helper.php 71
+ERROR - 2019-12-08 18:38:43 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\helpers\audit_log_trail_helper.php 74
+ERROR - 2019-12-08 18:38:45 --> Severity: Notice  --> Undefined variable: emp C:\xampp\htdocs\oclp.appraisal\application\models\system.php 1576
+ERROR - 2019-12-08 18:38:45 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\models\system.php 1576
+ERROR - 2019-12-08 18:38:52 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\libraries\Formsmain.php 286
+ERROR - 2019-12-08 18:50:48 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\oclp.appraisal\application\models\system.php 15
+ERROR - 2019-12-08 18:50:57 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 18:51:21 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 18:51:35 --> Severity: Notice  --> Undefined offset: 0 C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\controllers\firstbalfour_employees.php 177
+ERROR - 2019-12-08 18:51:35 --> Severity: Notice  --> Undefined offset: 0 C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\controllers\firstbalfour_employees.php 177
+ERROR - 2019-12-08 18:51:35 --> Severity: Notice  --> Undefined offset: 0 C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\controllers\firstbalfour_employees.php 177
+ERROR - 2019-12-08 18:51:35 --> Severity: Notice  --> Undefined offset: 0 C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\controllers\firstbalfour_employees.php 177
+ERROR - 2019-12-08 18:51:35 --> Severity: Notice  --> Undefined offset: 0 C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\controllers\firstbalfour_employees.php 177
+ERROR - 2019-12-08 18:51:35 --> Severity: Notice  --> Undefined offset: 0 C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\controllers\firstbalfour_employees.php 177
+ERROR - 2019-12-08 18:55:33 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 18:57:11 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 18:57:16 --> Severity: Notice  --> Undefined variable: email C:\xampp\htdocs\oclp.appraisal\application\views\template\edit-form-js.php 534
+ERROR - 2019-12-08 18:57:34 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\oclp.appraisal\application\controllers\admin\scheduled_task.php 132
+ERROR - 2019-12-08 18:57:43 --> Severity: Notice  --> Undefined offset: 1 C:\xampp\htdocs\oclp.appraisal\application\models\hdicore.php 115
+ERROR - 2019-12-08 18:57:46 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 19:06:02 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 19:06:46 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 19:06:47 --> Severity: Notice  --> Undefined variable: email C:\xampp\htdocs\oclp.appraisal\application\views\template\edit-form-js.php 534
+ERROR - 2019-12-08 19:07:15 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\oclp.appraisal\application\controllers\admin\scheduled_task.php 132
+ERROR - 2019-12-08 19:08:24 --> Severity: Notice  --> Undefined offset: 1 C:\xampp\htdocs\oclp.appraisal\application\models\hdicore.php 115
+ERROR - 2019-12-08 19:08:28 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 19:09:39 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 19:09:39 --> Severity: Notice  --> Undefined variable: email C:\xampp\htdocs\oclp.appraisal\application\views\template\edit-form-js.php 534
+ERROR - 2019-12-08 19:10:19 --> Severity: Notice  --> Undefined offset: 1 C:\xampp\htdocs\oclp.appraisal\application\models\hdicore.php 115
+ERROR - 2019-12-08 19:10:22 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 19:10:33 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 19:10:34 --> Severity: Notice  --> Undefined variable: email C:\xampp\htdocs\oclp.appraisal\application\views\template\edit-form-js.php 534
+ERROR - 2019-12-08 19:10:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\oclp.appraisal\application\controllers\admin\scheduled_task.php 132
+ERROR - 2019-12-08 19:10:56 --> Severity: Notice  --> Undefined offset: 1 C:\xampp\htdocs\oclp.appraisal\application\models\hdicore.php 115
+ERROR - 2019-12-08 19:11:00 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 19:11:56 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:56 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:57 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:57 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:57 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:57 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:57 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:57 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:57 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:57 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:57 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:57 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:57 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:58 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:58 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:58 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:58 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:58 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:58 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:58 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:58 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:58 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:58 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:58 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:58 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:58 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:58 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:59 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:59 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:59 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:59 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:59 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:59 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:59 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:59 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:59 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:59 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:59 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:59 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:11:59 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:00 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:00 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:00 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:00 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:00 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:00 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:00 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:00 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:00 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:00 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:00 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:00 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:01 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:01 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:01 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:01 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:01 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:01 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:01 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:01 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:01 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:01 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:01 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:01 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:01 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:01 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:02 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:02 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:02 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:02 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:02 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:02 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:02 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:02 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:02 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:02 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:02 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:03 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:03 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:03 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:03 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:03 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:03 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:04 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:04 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:04 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:04 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:04 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:04 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:05 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:05 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:05 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:05 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:05 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:05 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:05 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:06 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:06 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:06 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:06 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:06 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:06 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:07 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:07 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:07 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:07 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:07 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:07 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:08 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:08 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:08 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:08 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:08 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:08 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:08 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:08 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:09 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:09 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:09 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:09 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:09 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:09 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:09 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:10 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:10 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:10 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:10 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:10 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:10 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:10 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:11 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:11 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:11 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:11 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:11 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:11 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:11 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:12 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:12 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:12 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:12 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:12 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:12 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:12 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:12 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:12 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:13 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:13 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:13 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:13 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:13 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:13 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:13 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:13 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:13 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:14 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:14 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:14 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:14 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:14 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:14 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:14 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:14 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:15 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:15 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:15 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:15 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:15 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:15 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:15 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:15 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:16 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:16 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:16 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:16 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:16 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:16 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:16 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:17 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:17 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:17 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:17 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:17 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:17 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:18 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:18 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:18 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:18 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:18 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:18 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:18 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:18 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:18 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:18 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:18 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:19 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:19 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:19 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:19 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:19 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:19 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:19 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:19 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:19 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:19 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:20 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:21 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:21 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:21 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:21 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:21 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:21 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:21 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:21 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:22 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:22 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:22 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:22 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:22 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:23 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:23 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:23 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:23 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:23 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:23 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 19:12:23 --> Severity: Notice  --> Undefined property: stdClass::$carried_el C:\xampp\htdocs\oclp.appraisal\application\client\firstbalfour\models\firstbalfour_cron.php 1168
+ERROR - 2019-12-08 21:12:12 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 21:12:13 --> Severity: Notice  --> Undefined variable: email C:\xampp\htdocs\oclp.appraisal\application\views\template\edit-form-js.php 534
+ERROR - 2019-12-08 21:12:26 --> Severity: Notice  --> Undefined offset: 1 C:\xampp\htdocs\oclp.appraisal\application\models\hdicore.php 115
+ERROR - 2019-12-08 21:12:29 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 21:14:38 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
+ERROR - 2019-12-08 21:14:38 --> Severity: Notice  --> Undefined variable: email C:\xampp\htdocs\oclp.appraisal\application\views\template\edit-form-js.php 534
+ERROR - 2019-12-08 21:14:48 --> Severity: Notice  --> Undefined offset: 1 C:\xampp\htdocs\oclp.appraisal\application\models\hdicore.php 115
+ERROR - 2019-12-08 21:14:50 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\oclp.appraisal\application\views\slategray\template\sidebar.php 11
